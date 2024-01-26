@@ -1,0 +1,29 @@
+/* AddFields.css (or create a new CSS file if needed) */
+
+.display-fields-container {
+    margin-top: 20px;
+  }
+  
+  .display-fields-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  .display-fields-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .display-fields-table th,
+  .display-fields-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .display-fields-table th {
+    background-color: #f2f2f2;
+  }
+  
+  /* Add more styles based on your design preferences */
+  
